@@ -10,13 +10,13 @@ int main (){
         b++;
     }
     // Movimentos da Torre
-int torre_casasa = 5;
+int torre_casas = 5;
 printf("\nMovimentos da Torre");
-for (int i = 1; i<= torre_casasa; i++) 
+for (int i = 1; i<= torre_casas; i++) 
 {
     printf("\nDireita");
 }
-int rainha_casasa = 5;
+int rainha_casas = 5;
 int r = 1;
 printf("\nMovimentos da Rainha");
 do 
