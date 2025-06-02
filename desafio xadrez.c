@@ -23,7 +23,7 @@ do
 {
     printf("\nEsquerda");
     r++;
-} while (r <= rainha_casasa);
+} while (r <= rainha_casas);
 
 return 0;
 }
